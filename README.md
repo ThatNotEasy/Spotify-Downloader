@@ -14,5 +14,6 @@ A Python-based tool for downloading Spotify tracks and albums as MP3 files. This
 
 ## Usage
 - ```python main.py -u "track/album url"```
+- ```python main.py -f "list.txt"```
   
 ![photo_2024-11-08_10-51-59](https://github.com/user-attachments/assets/26058875-6178-4a3c-b7dd-c07fbacd807b)
